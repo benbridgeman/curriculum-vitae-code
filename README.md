@@ -1,2 +1,2 @@
-# curriculum-vitae-code
+# curriculum-vitae
 CV 2018
